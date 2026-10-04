@@ -1,0 +1,28 @@
+{
+  "custom_commands": {
+    "open github": {
+      "action": "open_url",
+      "target": "https://github.com",
+      "response": "Opening GitHub for you."
+    },
+    "open youtube": {
+      "action": "open_url",
+      "target": "https://www.youtube.com",
+      "response": "Opening YouTube."
+    },
+    "tell me a joke": {
+      "action": "speak",
+      "target": "Why do programmers prefer dark mode? Because light attracts bugs!",
+      "response": "Why do programmers prefer dark mode? Because light attracts bugs!"
+    }
+  },
+  "user_name": "Friend",
+  "weather": {
+    "city": "Ramanathapuram",
+    "api_key": ""
+  },
+  "tts": {
+    "rate": 175,
+    "volume": 1.0
+  }
+}
